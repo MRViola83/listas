@@ -27,6 +27,8 @@ nintendo.com
 nintendo.net
 roblox.com
 rbxcdn.com
+rbxinfra.net
+rbxtrk.com
 poki.com
 clickjogos.com.br
 jogos360.com.br
